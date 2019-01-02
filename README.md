@@ -12,9 +12,9 @@ We consider a quadrotor equipped with a forward-facing camera, and an user freel
 
 
 ## Video
-The video submitted at HRI2019 is available [here](https://github.com/idsia-robotics/proximity-quadrotor-learning/tree/master/video).
+The video submitted at HRI2019 is available [here](https://drive.switch.ch/index.php/s/MlEDrsuHcSl5Aw5).
 
 Other videos are available [here](https://drive.switch.ch/index.php/s/hUaJcKEBGbGKDA4)
 
 ## Additional Information
- A detailed description of the approach can be found [here](https://arxiv.org/abs/1809.08881) and additional material is available [here](https://github.com/idsia-robotics/proximity-quadrotor-learning-video)
+ A detailed description of the approach can be found [here](https://arxiv.org/abs/1809.08881) and on [GitHub](https://github.com/idsia-robotics/proximity-quadrotor-learning)

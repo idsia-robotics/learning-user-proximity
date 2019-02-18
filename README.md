@@ -12,7 +12,7 @@ We consider a quadrotor equipped with a forward-facing camera, and an user freel
 
 
 ## Video
-The video submitted at HRI2019 is available [here](https://drive.switch.ch/index.php/s/MlEDrsuHcSl5Aw5).
+The video accepted at HRI2019 is available [here](https://drive.switch.ch/index.php/s/MlEDrsuHcSl5Aw5).
 
 Other videos are available [here](https://drive.switch.ch/index.php/s/hUaJcKEBGbGKDA4)
 

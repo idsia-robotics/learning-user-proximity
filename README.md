@@ -10,6 +10,8 @@ We consider a quadrotor equipped with a forward-facing camera, and an user freel
   <img src="/video/video_gif.gif"/>
 </p>
 
+## BibTeX
+[BibTeX](https://github.com/idsia-robotics/proximity-quadrotor-learning/tree/master/bibtex-hri.bib)
 
 ## Video
 The video accepted at HRI2019 is available [here](https://drive.switch.ch/index.php/s/MlEDrsuHcSl5Aw5).
